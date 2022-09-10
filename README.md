@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachet Bajracharya</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachetbajra" alt="sachetbajra" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sachhhhet" target="blank"><img src="https://img.shields.io/twitter/follow/sachhhhet?logo=twitter&style=for-the-badge" alt="sachhhhet" /></a> </p>
-
 - 🔭 I’m currently working on [Drawp for School](https://app.drawpforschool.com/)
 
 - 🌱 I’m currently learning **ReactJs**
@@ -31,9 +27,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sachetbajra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sachetbajra" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachetbajra&show_icons=true&locale=en&layout=compact" alt="sachetbajra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachetbajra&show_icons=true&locale=en" alt="sachetbajra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachetbajra&" alt="sachetbajra" /></p>
