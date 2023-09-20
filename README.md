@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Drawp for School](https://app.drawpforschool.com/)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sachet-bajracharya-81865064/](https://www.linkedin.com/in/sachet-bajracharya-81865064/)
 
