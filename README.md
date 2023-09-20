@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sachet-bajracharya-81865064/](https://www.linkedin.com/in/sachet-bajracharya-81865064/)
 
-- 💬 Ask me about **react, android, google add-on, mobile UI/UX**
+- 💬 Ask me about **react, django, flutter, android, google add-on, mobile UI/UX**
 
 - 📫 How to reach me **sachetbajracharya@gmail.com**
 
